@@ -131,7 +131,7 @@ Future directions for me would be to expand to other domains of foundational kno
 
 ---
 
-**Author:** *Pantelis (Léon) Ladopoulos*  
+**Author:** **Pantelis (Léon) Ladopoulos**  
 **Project Type:** Open AI-assisted etymological and cognitive systems experiment  
 **Languages & Tools:** Python | OpenAI API |Meta Llama API| Groq | Hugging Face API| Matplotlib | BeautifulSoup  
 ## **License**
