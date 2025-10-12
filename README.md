@@ -115,7 +115,7 @@ Combining both enhances **memory retention** and **understanding**, building str
 
 If you know of **open etymological datasets or APIs** with accessible word stems and historical explanations (free of licensing restrictions), please share them as it would be ideal to build an app to teach languages this way.
 
-Future directions for me would be to expand to other domains of foundational knowledge — such as **mathematics**, **logic**, and **code** — to explore how mental models thinking,Python, LLMs and collaboration can accelerate studying in other domains.
+Future directions for me would be to expand to other domains of foundational knowledge  such as **mathematics**, **logic**, and **code**  to explore how mental models thinking,Python,LLMs and collaboration can accelerate studying in other domains.
 
 ---
 
