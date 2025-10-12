@@ -1,6 +1,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
 🌍📚⚙️  
 **Etymologyneering **  
 *Learning through mental models, Python, LLMs and imagination.*
@@ -136,8 +137,13 @@ Future directions for me would be to expand to other domains of foundational kno
 **Languages & Tools:** Python | OpenAI API |Meta Llama API| Groq | Hugging Face API| Matplotlib | BeautifulSoup  
 ## **License**
 
-- **Books, Text, and Images:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
-  You are free to share and adapt this material with proper credit to **Pantelis Ladopoulos**.  
+## **License**
 
-- **Code:** [MIT License](https://opensource.org/licenses/MIT)  
-  Free to use, modify, and distribute with attribution.  
+- **Books, Text, and Images:** [CC BY 4.0 License](LICENSE_BOOK.txt)
+-   You are free to share and adapt this material with proper credit to **Pantelis Ladopoulos**.  
+
+- **Code:** [MIT License](LICENSE_CODE.txt)
+-   Free to use, modify, and distribute with attribution.  
+
+- **Data:** Not included due to source restrictions.
+
