@@ -37,7 +37,7 @@ This work builds upon publicly available etymological data from:
 
 The **OpenAI ChatGPT-4o API** generated structured entries with the following sections:
 
-- **Greek Translation**  (I’m Greek and Greeks wpuld benefit from direct access to English as nowadays it unlocks vast access to science).  
+- **Greek Translation**  (I’m Greek and Greeks would benefit from direct access to English as nowadays it unlocks vast access to science).  
 - **Phonetic Spelling**   I am not good at reading it but maybe for readers who can interpret it might find it useful.
 - **Part of Speech**  e.g., noun, verb, adjective.  
 - **Etymology**  historical origin and linguistic evolution.  
