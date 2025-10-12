@@ -132,10 +132,22 @@ Future directions for me would be to expand to other domains of foundational kno
 
 ---
 
+
 **Author:** **Pantelis (Léon) Ladopoulos**  
 **Project Type:** Open AI-assisted etymological and cognitive systems experiment  
 **Languages & Tools:** Python | OpenAI API |Meta Llama API| Groq | Hugging Face API| Matplotlib | BeautifulSoup  
-## **License**
+
+## 📘 Download Volumes
+
+You can read or download the **Etymologyneering volumes (PDF)** below.  
+Each volume explores English words derived from Proto-Indo-European (PIE) roots,  
+featuring imagery, semantic clusters, and explanations showing how prefixes and stems fuse into meaning.
+
+- [📗 Letter L — Etymologyneering_EN_L (PDF)](https://drive.google.com/drive/folders/1EyKyMSexySAGAJjxHhruSe4CYN8EDmX1)
+- [📘 Letter U — Etymologyneering_EN_U (PDF)](https://drive.google.com/drive/folders/1EyKyMSexySAGAJjxHhruSe4CYN8EDmX1)
+- [📕 Letter W — Etymologyneering_EN_W (PDF)](https://drive.google.com/drive/folders/1EyKyMSexySAGAJjxHhruSe4CYN8EDmX1)
+- [📙 Letter Y — Etymologyneering_EN_Y (PDF)](https://drive.google.com/drive/folders/1EyKyMSexySAGAJjxHhruSe4CYN8EDmX1)
+
 
 ## **License**
 
