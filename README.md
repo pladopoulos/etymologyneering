@@ -126,7 +126,7 @@ Future directions for me would be to expand to other domains of foundational kno
 - **Compression of semantic space** parallels **dimensionality reduction.**  
 - **Each root behaves like a latent feature in machine learning.**  
 - **Man-in-the-loop guardrails ensure reliability.**  
-- **Clusters mirror how the brain stores knowledge — as networks, not lists.**  
+- **Clusters mirror how the brain stores knowledge as networks, not lists.**  
 - **Dual-coding theory proves that images strengthen memory and comprehension.**
 
 ---
