@@ -7,14 +7,14 @@
 
 # **Etymologyneering**
 
-**Etymologyneering** demonstrates how combining **mental-models thinking**, **Python**, and **Large Language Models (LLMs)** through APIs can create **shortcuts in learning foundational knowledge** — such as **languages, mathematics, and coding** — saving years of traditional study.  
+**Etymologyneering** demonstrates how combining **mental-models thinking**, **Python**, and **Large Language Models (LLMs)** through APIs can create **shortcuts in learning foundational knowledge**  such as **languages, mathematics, and coding etc**  saving years of traditional study.  
 This project focuses on **English** as the language of exploration.
 
 ---
 
 ## **Concept**
 
-Etymologyneering teaches English through **first principles** — the **Proto-Indo-European (PIE) roots** that act as the *atomic units* or **bedrock of meaning**.  
+Etymologyneering teaches English through **first principles** i.e. the **Proto-Indo-European (PIE) roots** that act as the *atomic units* or **bedrock of meaning**.  
 These roots are few, yet they generate thousands of words, creating a **compression of semantic space**.
 
 Using **analogical thinking**, each PIE root behaves like a **latent feature in machine learning** — though their nature differs:
@@ -37,17 +37,17 @@ This work builds upon publicly available etymological data from:
 
 The **OpenAI ChatGPT-4o API** generated structured entries with the following sections:
 
-- **Greek Translation** – (I’m Greek, but English unlocks vast access to science).  
-- **Phonetic Spelling** – for readers who can interpret it.  
-- **Part of Speech** – e.g., noun, verb, adjective.  
-- **Etymology** – historical origin and linguistic evolution.  
-- **Nowadays Meaning** – the modern sense.  
+- **Greek Translation**  (I’m Greek and Greeks wpuld benefit from direct access to English as nowadays it unlocks vast access to science).  
+- **Phonetic Spelling**   I am not good at reading it but maybe for readers who can interpret it might find it useful.
+- **Part of Speech**  e.g., noun, verb, adjective.  
+- **Etymology**  historical origin and linguistic evolution.  
+- **Nowadays Meaning**  the modern sense.  
 - **Connection to the PIE Root Stem**  
   - **Literal:** How physical senses evolved into abstract ideas.  
   - **Interplay:** How prefix, root, and suffix fuse into meaning.  
-- **Example Sentences** – three per entry.  
+- **Example Sentences**  three per entry.  
 - **Conclusion** – summarizes the evolution from root to modern meaning.  
-- **One-Line Intuitive Link** – compresses the story into a memorable shortcut.
+- **One-Line Intuitive Link** compresses the story into a memorable shortcut.
 
 ---
 
