@@ -122,7 +122,7 @@ Future directions for me would be to expand to other domains of foundational kno
 ### **Key Takeaways**
 
 - **Etymologyneering is a shortcut to learning foundational knowledge.**  
-- **PIE roots = first principles — the atoms of meaning.**  
+- **PIE roots = first principles i.e. the atoms of meaning.**  
 - **Compression of semantic space** parallels **dimensionality reduction.**  
 - **Each root behaves like a latent feature in machine learning.**  
 - **Man-in-the-loop guardrails ensure reliability.**  
