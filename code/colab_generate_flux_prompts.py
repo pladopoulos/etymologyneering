@@ -7,7 +7,7 @@ Inputs (required columns):
 - "word root"
 - "word root meaning"
 - "derivative word"
-- "derivative explanation by etymonline"
+- "derivative explanation by source dictionary"
 - "OpenAI Explanation"
 
 Outputs:
@@ -73,7 +73,7 @@ REQUIRED_COLS = {
     "word root",
     "word root meaning",
     "derivative word",
-    "derivative explanation by etymonline",
+    "derivative explanation by source dictionary",
     "OpenAI Explanation",
 }
 
@@ -215,15 +215,15 @@ def main():
         pie    = (row.get("word root", "") or "").strip()
         pie    = pie if pie.startswith("*") else ""  # keep only PIE-looking forms
         oa_exp = (row.get("OpenAI Explanation", "") or "").strip()
-        ety    = (row.get("derivative explanation by etymonline", "") or "").strip()
+        ety    = (row.get("derivative explanation by source dictionary", "") or "").strip()
 
         # Meaning & context source
         meaning = first_sentence(oa_exp) or first_sentence(ety)
         block   = oa_exp if oa_exp else ety
 
         if not block.strip():
-            df.at[i, "flux_prompt"]     = "[SKIPPED: empty OpenAI & etymonline]"
-            df.at[i, "image_explainer"] = "[SKIPPED: empty OpenAI & etymonline]"
+            df.at[i, "flux_prompt"]     = "[SKIPPED: empty OpenAI & source dictionary]"
+            df.at[i, "image_explainer"] = "[SKIPPED: empty OpenAI & source dictionary]"
             processed += 1
             print(f"Processed {processed}/{total} (row {i}: empty sources)")
             if processed - last_saved >= CHECKPOINT_EVERY:
