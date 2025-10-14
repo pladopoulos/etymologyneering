@@ -4,7 +4,7 @@
 
 🌍📚⚙️  
 **Etymologyneering **  
-*Learning through mental models, Python, LLMs and imagination.*
+*Learning through mental models, Python, LLMs and visualizations.*
 
 # **Etymologyneering**
 
