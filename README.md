@@ -16,7 +16,7 @@ This project focuses on **English** as the language of exploration.
 ## **Concept**
 
 Etymologyneering teaches English through **first principles** i.e. the **Proto-Indo-European (PIE) roots** that act as the atomic units or **bedrock of meaning**.  
-These roots are few, yet they generate thousands of words which feels like a **compression of semantic space**. I mean by that each PIE root captures a core meaning (like “to carry,” “to shine,” “to bind”)
+These roots are few, yet they generate thousands of words which feels like a **compression of semantic space**. I mean that each PIE root captures a core meaning (like “to carry,” “to shine,” “to bind”)
 and then these few hundred roots generate thousands of words through across European Languages (Greek, Latin , Germanic, Balto-Slavic etc including sanskrit language) through systematic transformations (prefixes, suffixes, metaphorical shifts).
 
 Using **analogical thinking**, each root acts like a core semantic feature, much like a latent dimension in machine learning, a hidden layer of meaning that shapes all the words built from it.
