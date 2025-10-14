@@ -59,7 +59,7 @@ The **OpenAI ChatGPT-4o API** generated structured entries with the following se
 A **man-in-the-loop** review process ensured factual grounding and interpretive depth, supported by structured **guardrails**:
 
 - **Missing PIE input for prefixes or stems can lead to hallucinations:** When the model isn’t provided with the Proto-Indo-European (PIE) root of one or more components (e.g., in a word with two prefixes and one stem),
- it tends to invent or distort meanings for the missing parts.
+ it tends to invent or distort meanings for the missing parts. So having all PIE for all parts of the words (prefix and stem) is imperative.
 - **Schema constraints:** fixed 9-section format with exact headings.  
 - **Content separation:** no mixing of historical and modern meaning.  
 - **Style rules:** concise sentences (≤ 20 words), academic tone.  
