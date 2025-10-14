@@ -18,8 +18,6 @@ Dependencies (Colab):
 """
 
 import os, math, textwrap
-from pathlib import Path
-
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.patches import Circle
