@@ -8,7 +8,7 @@
 
 # **Etymologyneering**
 
-I have a great interest in combining **mental-models thinking**, **Python**, and **Large Language Models (LLMs)** through APIs (and hopefully collaborate) to create **shortcuts in learning foundational knowledge**  such as **languages, mathematics, and coding etc**  saving years of traditional study.  
+I have a great interest in combining **mental-models thinking**, **Python**, and **Large Language Models (LLMs)** through APIs (and hopefully collaborations) to create **shortcuts in learning foundational knowledge**  such as **languages, mathematics, and coding etc**  saving years of traditional study.  
 This project focuses on **English** as the language of exploration.
 
 ---
@@ -16,10 +16,11 @@ This project focuses on **English** as the language of exploration.
 ## **Concept**
 
 Etymologyneering teaches English through **first principles** i.e. the **Proto-Indo-European (PIE) roots** that act as the atomic units or **bedrock of meaning**.  
-These roots are few, yet they generate thousands of words, creating a **compression of semantic space**. I mean by that each PIE root captures a core meaning (like “to carry,” “to shine,” “to bind”)
+These roots are few, yet they generate thousands of words which feels like a **compression of semantic space**. I mean by that each PIE root captures a core meaning (like “to carry,” “to shine,” “to bind”)
 and then these few hundred roots generate thousands of words through across European Languages (Greek, Latin , Germanic, Balto-Slavic etc including sanskrit language) through systematic transformations (prefixes, suffixes, metaphorical shifts).
 
-Using **analogical thinking**, each PIE root behaves a bit like  a **latent feature in machine learning** — though their nature differs:
+Using **analogical thinking**, each root acts like a core semantic feature, much like a latent dimension in machine learning, a hidden layer of meaning that shapes all the words built from it.
+However their nature is different:
 
 - **Dimensionality Reduction** is mathematical and computed.  
 - **PIE roots** are **genealogical and associative**.
@@ -94,7 +95,7 @@ during my review of the books using  **ChatGPT-5** through the Chat UI.
 2. Return to the **cluster diagram**.  
 3. Reconnect each word’s meaning to its **root** and **prefix–stem interplay**.
 
-Etymologyneering helps you *see how words are engineered* — understanding the **mechanics of meaning**.
+Etymologyneering helps you see how words are engineered or in other words understand the **mechanics of words' meanings**.
 
 ---
 
@@ -126,7 +127,6 @@ Future directions for me would be to expand to other domains of foundational kno
 - **Etymologyneering is a shortcut to learning foundational knowledge.**  
 - **PIE roots = first principles i.e. the atoms of meaning.**  
 - **Compression of semantic space** parallels **dimensionality reduction.**  
-- **Each root behaves like a latent feature in machine learning.**  
 - **Man-in-the-loop guardrails ensure reliability.**  
 - **Clusters mirror how the brain stores knowledge as networks, not lists.**  
 - **Dual-coding theory proves that images strengthen memory and comprehension.**
@@ -135,7 +135,7 @@ Future directions for me would be to expand to other domains of foundational kno
 
 
 **Author:** **Pantelis (Léon) Ladopoulos**  
-**Project Type:** Open AI-assisted etymological and cognitive systems experiment  
+**Project Type:** LLM-assisted etymological english learning 
 **Languages & Tools:** Python | OpenAI API |Meta Llama API| Groq | Hugging Face API| Matplotlib | BeautifulSoup  
 
 ## 📘 Download Volumes
