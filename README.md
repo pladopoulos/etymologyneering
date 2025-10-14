@@ -158,5 +158,4 @@ featuring imagery, semantic clusters, and explanations showing how prefixes and 
 - **Code:** [MIT License](LICENSE_CODE.txt)
 -   Free to use, modify, and distribute with attribution.  
 
-- **Data:** Not included due to source restrictions.
 
