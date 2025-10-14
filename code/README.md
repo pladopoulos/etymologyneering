@@ -16,4 +16,4 @@ Uses **Matplotlib** to generate one `.png` per root (cluster).
 ### Requirements
 These scripts rely on:
 ```bash
- matplotlib huggingface_hub 
+ matplotlib pandas huggingface_hub 
