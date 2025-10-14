@@ -16,4 +16,4 @@ Uses **Matplotlib** to generate one `.png` per root (cluster).
 ### Requirements
 These scripts rely on:
 ```bash
-pip install requests beautifulsoup4 matplotlib openai
+ matplotlib huggingface_hub 
