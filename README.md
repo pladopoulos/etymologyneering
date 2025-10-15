@@ -144,10 +144,11 @@ You can read or download the **Etymologyneering volumes (PDF)** below.
 Each volume explores English words derived from Proto-Indo-European (PIE) roots,  
 featuring imagery, semantic clusters, and explanations showing how prefixes and stems fuse into meaning.
 
-- [📗 Letter L — Etymologyneering_EN_L (PDF)](https://drive.google.com/drive/folders/1EyKyMSexySAGAJjxHhruSe4CYN8EDmX1)
-- [📘 Letter U — Etymologyneering_EN_U (PDF)](https://drive.google.com/drive/folders/1EyKyMSexySAGAJjxHhruSe4CYN8EDmX1)
-- [📕 Letter W — Etymologyneering_EN_W (PDF)](https://drive.google.com/drive/folders/1EyKyMSexySAGAJjxHhruSe4CYN8EDmX1)
-- [📙 Letter Y — Etymologyneering_EN_Y (PDF)](https://drive.google.com/drive/folders/1EyKyMSexySAGAJjxHhruSe4CYN8EDmX1)
+- [📗 Letter L — Etymologyneering_EN_L (PDF)](https://github.com/pladopoulos/etymologyneering/raw/main/volumes/Etymologyneering_EN_Letter_L.pdf)
+- [📘 Letter U — Etymologyneering_EN_U (PDF)](https://github.com/pladopoulos/etymologyneering/raw/main/volumes/Etymologyneering_EN_Letter_U.pdf))
+- [📕 Letter W — Etymologyneering_EN_W (PDF)](https://github.com/pladopoulos/etymologyneering/raw/main/volumes/Etymologyneering_EN_Letter_W.pdf)
+- [📙 Letter Y — Etymologyneering_EN_Y (PDF)](https://github.com/pladopoulos/etymologyneering/raw/main/volumes/Etymologyneering_EN_Letter_Y.pdf)
+
 
 
 ## **License**
