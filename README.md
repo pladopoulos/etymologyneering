@@ -137,17 +137,8 @@ Future directions for me would be to expand to other domains of foundational kno
 
 ---
 
-### **Key Takeaways**
-
-- **PIE roots = first principles i.e. the atoms of meaning.**  
-- **Man-in-the-loop guardrails ensure reliability.**  
-- **Clusters mirror how the brain stores knowledge as networks, not lists.**  
-- **Dual-coding theory proves that images strengthen memory and comprehension.**
-
----
-
 **Author:** **Pantelis (Léon) Ladopoulos**  
-**Project Type:** LLM-assisted etymological learning for English
+**Project Type:** LLM-assisted etymological learning for English 
 **Languages & Tools:** Python | OpenAI API |Meta Llama API| Groq | Hugging Face API| Matplotlib | BeautifulSoup  
 
 ## 📘 Download Volumes
