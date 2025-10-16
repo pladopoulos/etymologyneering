@@ -97,7 +97,7 @@ For **fast learners**
 
 For **deep learners**
 
-1.**Speed-read** each entry.
+1. **Speed-read** each entry.
 2. Return to the **cluster diagram**.  
 3. Reconnect each word’s meaning to its **root** and **prefix–stem interplay**.
 
