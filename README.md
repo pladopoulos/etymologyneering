@@ -17,7 +17,7 @@ An educational experiment combining **mental-models thinking**, **Python**, and 
 Etymologyneering teaches English through **first principles** i.e. the **Proto-Indo-European (PIE) roots** that act as the atomic units or **bedrock of meaning**. See here about Indo-European reconstructed 
 language https://en.wikipedia.org/wiki/Proto-Indo-European_language 
 These roots are few, yet they generate thousands of words which feels like a **compression of semantic space**. I mean that each PIE root captures a core meaning (like “to carry,” “to shine,” “to bind”)
-and then these few hundred roots generate thousands of words across European Languages (Greek, Latin , Germanic, Balto-Slavic etc including sanskrit language) through systematic transformations (prefixes, suffixes, metaphorical shifts).
+and then these few hundred roots generate thousands of words across European Languages (Greek, Latin , Germanic, Balto-Slavic etc including Sanskrit language) through systematic transformations (prefixes, suffixes, metaphorical shifts).
 
 
 Using **analogical thinking**, to me PIE roots mirror how ML models compress data: surface complexity emerging from simpler underlying features.
