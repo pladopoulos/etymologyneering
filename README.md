@@ -90,7 +90,7 @@ All captions were LLM-generated either through the model  **Meta-LLaMA-4-Scout-1
 ## **How to Read the Volumes**
 
 For **fast learners** 
-1. Speed-read the "PIE Root Connection" section (Literal + Interplay)
+1. **Speed-read** the "PIE Root Connection" section (Literal + Interplay)
 2. Glance at the image + 3 example sentences
 3. Check the cluster diagram
 4. Move to next word
