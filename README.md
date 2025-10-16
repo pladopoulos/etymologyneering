@@ -4,26 +4,26 @@
 
 🌍📚⚙️  
 **Etymologyneering **  
-*Learning through mental models, Python, LLMs and visualizations.*
+**What if you could learn English (or other languages) by understanding how words are engineered?**
 
 # **Etymologyneering**
 
-I have a great interest in combining **mental-models thinking**, **Python**, and **Large Language Models (LLMs)** through APIs (and hopefully collaborations) to create **shortcuts in learning foundational knowledge**  such as **languages, mathematics, and coding etc**  saving years of traditional study.  
-This project focuses on **English** as the language of exploration.
+An educational experiment combining **mental-models thinking**, **Python**, and **Large Language Models (LLMs)** through APIs that teaches **1,056 English words** through **38 Proto-Indo-European root stems**.
 
 ---
 
 ## **Concept**
 
-Etymologyneering teaches English through **first principles** i.e. the **Proto-Indo-European (PIE) roots** that act as the atomic units or **bedrock of meaning**.  
+Etymologyneering teaches English through **first principles** i.e. the **Proto-Indo-European (PIE) roots** that act as the atomic units or **bedrock of meaning**. See here about Indo-European reconstructed 
+language https://en.wikipedia.org/wiki/Proto-Indo-European_language 
 These roots are few, yet they generate thousands of words which feels like a **compression of semantic space**. I mean that each PIE root captures a core meaning (like “to carry,” “to shine,” “to bind”)
-and then these few hundred roots generate thousands of words through across European Languages (Greek, Latin , Germanic, Balto-Slavic etc including sanskrit language) through systematic transformations (prefixes, suffixes, metaphorical shifts).
+and then these few hundred roots generate thousands of words across European Languages (Greek, Latin , Germanic, Balto-Slavic etc including sanskrit language) through systematic transformations (prefixes, suffixes, metaphorical shifts).
 
-Using **analogical thinking**, each root acts like a core semantic feature, much like a latent dimension in machine learning, a hidden layer of meaning that shapes all the words built from it.
+
+Using **analogical thinking**, to me PIE roots mirror how ML models compress data: surface complexity emerging from simpler underlying features.
 However their nature is different:
-
-- **Dimensionality Reduction** is mathematical and computed.  
-- **PIE roots** are **genealogical and associative**.
+- **Dimensionality reduction** is **computed**: algorithmic extraction of latent features from observed data
+- **PIE roots** are **reconstructed**: ancestral forms of an ancient and unwritten language inferred through comparative linguistics 
 
 ---
 
@@ -40,17 +40,17 @@ This work builds upon publicly available etymological data from:
 
 The **OpenAI ChatGPT-4o API** generated structured entries with the following sections:
 
-- **Greek Translation**  (I’m Greek and Greeks would benefit from direct access to English as nowadays it unlocks vast access to science).  
-- **Phonetic Spelling**   I am not good at reading it but maybe for readers who can interpret it might find it useful.
+- **Greek Translation**  Greek translation for Greek learners
+- **Phonetic Spelling**   Provides pronunciation guidance (IPA format)
 - **Part of Speech**  e.g., noun, verb, adjective.  
 - **Etymology**  historical origin and linguistic evolution.  
 - **Nowadays Meaning**  the modern sense.  
 - **Connection to the PIE Root Stem**  
-  - **Literal:** How physical senses evolved into abstract ideas.  
+  - **Literal:** How concrete/physical meanings evolved into abstract concepts  
   - **Interplay:** How prefix, root, and suffix fuse into meaning.  
 - **Example Sentences**  three per entry.  
 - **Conclusion** – summarizes the evolution from root to modern meaning.  
-- **One-Line Intuitive Link** compresses the story into a memorable shortcut.
+- **One-Line Intuitive Link** memorable mnemonic compressing the entire etymology.
 
 ---
 
@@ -59,7 +59,7 @@ The **OpenAI ChatGPT-4o API** generated structured entries with the following se
 A **man-in-the-loop** review process ensured factual grounding and interpretive depth, supported by structured **guardrails**:
 
 - **Missing PIE input for prefixes or stems can lead to hallucinations:** When the model isn’t provided with the Proto-Indo-European (PIE) root of one or more components (e.g., in a word with two prefixes and one stem),
- it tends to invent or distort meanings for the missing parts. So having all PIE for all parts of the words (prefix and stem) is imperative.
+ it tends to invent or distort meanings for the missing parts. So having all PIE stems for all parts of the words (prefix and stem) is imperative.
 - **Schema constraints:** fixed 9-section format with exact headings.  
 - **Content separation:** no mixing of historical and modern meaning.  
 - **Style rules:** concise sentences (≤ 20 words), academic tone.  
@@ -71,13 +71,12 @@ A **man-in-the-loop** review process ensured factual grounding and interpretive 
 
 ## **Image Generation Pipeline**
 
-Prompts for **text-to-image generation** were created using:
+Prompts for **text-to-image generation** were created using **Meta-LLaMA-4-Scout-17b-16e-Instruct** via **Groq API** (the inference accelerator).  
 
-- **Meta-LLaMA-4-Scout-17b-16e-Instruct** via **Groq API** (the inference accelerator, not *Grok*).  
-- Images generated by **Black-Forest-Labs / FLUX.1-Schnell** through the **Hugging Face API**.  
+Images were generated by **Black-Forest-Labs / FLUX.1-Schnell** model through the **Hugging Face API**.  
+During the review phase of the books, some images were updated directly using **ChatGPT-5** through the Chat UI.  
 
-During the *review phase*, some images were updated directly in **ChatGPT-5** through the Chat UI.  
-All prompts and captions were LLM-generated — occasionally weirdly funny to me and intentionally left unedited, either through the model  **Meta-LLaMA-4-Scout-17b-16e-Instruct** or 
+All captions were LLM-generated, occasionally weirdly funny to me and intentionally left unedited, either through the model  **Meta-LLaMA-4-Scout-17b-16e-Instruct** or 
 during my review of the books using  **ChatGPT-5** through the Chat UI.  
 
 ---
@@ -91,11 +90,19 @@ during my review of the books using  **ChatGPT-5** through the Chat UI.
 
 ## **How to Read the Volumes**
 
-1. **Speed-read** each entry.  
+For **fast learners** 
+1. Speed-read the "PIE Root Connection" section (Literal + Interplay)
+2. Glance at the image + 3 example sentences
+3. Check the cluster diagram
+4. Move to next word
+
+For **deep learners**
+
+1.**Speed-read** each entry.
 2. Return to the **cluster diagram**.  
 3. Reconnect each word’s meaning to its **root** and **prefix–stem interplay**.
 
-Etymologyneering helps you see how words are engineered or in other words understand the **mechanics of words' meanings**.
+Etymologyneering reveals how words are engineered - the **mechanics of meaning**.
 
 ---
 
@@ -116,9 +123,9 @@ Combining both enhances **memory retention** and **understanding**, building str
 
 ## **Collaboration Invitation**
 
-If you know of **open etymological datasets or APIs** with accessible word stems and historical explanations (free of licensing restrictions), please share them as it would be ideal to build an app to teach languages this way.
+If you know of **open etymological datasets or APIs** with accessible word stems and historical explanations (free of licensing restrictions), please DM me as it would be ideal to build an app to teach languages this way.
 
-Future directions for me would be to expand to other domains of foundational knowledge  such as **mathematics**, **logic**, and **code**  to explore how mental models thinking,Python,LLMs and collaboration can accelerate studying in other domains.
+Future directions for me would be to expand to other domains of foundational knowledge  such as **mathematics**, **code**  etc to explore how mental models thinking,Python,LLMs and collaboration can accelerate studying in other domains.
 
 ---
 
