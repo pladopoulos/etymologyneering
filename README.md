@@ -97,9 +97,9 @@ For **fast learners**
 
 For **deep learners**
 
-1. **Speed-read** each entry.
-2. Return to the **cluster diagram**.  
-3. Reconnect each word’s meaning to its **root** and **prefix–stem interplay**.
+1. **Speed-read** each entry accross all sections.
+2. Check the cluster diagram
+3. Move to next word
 
 Etymologyneering reveals how words are engineered - the **mechanics of meaning**.
 
