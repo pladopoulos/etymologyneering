@@ -138,7 +138,7 @@ Future directions for me would be to expand to other domains of foundational kno
 ---
 
 **Author:** **Pantelis (Léon) Ladopoulos**  
-**Project Type:** LLM-assisted etymological learning for English 
+**Project Type:** LLM-assisted English language learning through **first principles** i.e. the **Proto-Indo-European (PIE) roots**
 **Languages & Tools:** Python | OpenAI API |Meta Llama API| Groq | Hugging Face API| Matplotlib | BeautifulSoup  
 
 ## 📘 Download Volumes
